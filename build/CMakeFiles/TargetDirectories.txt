@@ -1,0 +1,3 @@
+C:/tools/ProgramacionParalela/TrabajoEnClase/build/CMakeFiles/trabajo_clase.dir
+C:/tools/ProgramacionParalela/TrabajoEnClase/build/CMakeFiles/edit_cache.dir
+C:/tools/ProgramacionParalela/TrabajoEnClase/build/CMakeFiles/rebuild_cache.dir
