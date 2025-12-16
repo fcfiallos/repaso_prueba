@@ -43,7 +43,7 @@ include CMakeFiles/common.ninja
 
 build cmake_object_order_depends_target_trabajo_clase_RELWITHDEBINFO: phony || .
 
-build CMakeFiles/trabajo_clase.dir/RelWithDebInfo/main.cpp.obj: CXX_COMPILER__trabajo_clase_unscanned_RelWithDebInfo C$:/tools/ProgramacionParalela/TrabajoEnClase/main.cpp || cmake_object_order_depends_target_trabajo_clase_RELWITHDEBINFO
+build CMakeFiles/trabajo_clase.dir/RelWithDebInfo/main.cpp.obj: CXX_COMPILER__trabajo_clase_unscanned_RelWithDebInfo C$:/tools/Proyectos/repaso_prueba/main.cpp || cmake_object_order_depends_target_trabajo_clase_RELWITHDEBINFO
   CONFIG = RelWithDebInfo
   DEFINES = -DFMT_SHARED -DCMAKE_INTDIR=\"RelWithDebInfo\"
   DEP_FILE = CMakeFiles\trabajo_clase.dir\RelWithDebInfo\main.cpp.obj.d
@@ -52,7 +52,7 @@ build CMakeFiles/trabajo_clase.dir/RelWithDebInfo/main.cpp.obj: CXX_COMPILER__tr
   OBJECT_DIR = CMakeFiles\trabajo_clase.dir\RelWithDebInfo
   OBJECT_FILE_DIR = CMakeFiles\trabajo_clase.dir\RelWithDebInfo
 
-build CMakeFiles/trabajo_clase.dir/RelWithDebInfo/escala_grises.cpp.obj: CXX_COMPILER__trabajo_clase_unscanned_RelWithDebInfo C$:/tools/ProgramacionParalela/TrabajoEnClase/escala_grises.cpp || cmake_object_order_depends_target_trabajo_clase_RELWITHDEBINFO
+build CMakeFiles/trabajo_clase.dir/RelWithDebInfo/escala_grises.cpp.obj: CXX_COMPILER__trabajo_clase_unscanned_RelWithDebInfo C$:/tools/Proyectos/repaso_prueba/escala_grises.cpp || cmake_object_order_depends_target_trabajo_clase_RELWITHDEBINFO
   CONFIG = RelWithDebInfo
   DEFINES = -DFMT_SHARED -DCMAKE_INTDIR=\"RelWithDebInfo\"
   DEP_FILE = CMakeFiles\trabajo_clase.dir\RelWithDebInfo\escala_grises.cpp.obj.d
@@ -74,7 +74,7 @@ build RelWithDebInfo/trabajo_clase.exe: CXX_EXECUTABLE_LINKER__trabajo_clase_Rel
   FLAGS = -mavx2 -fopenmp  -O2 -g -DNDEBUG
   LINK_LIBRARIES = C:/tools/vcpkg/installed/x64-mingw-dynamic/lib/libfmt.dll.a  C:/tools/vcpkg/installed/x64-mingw-dynamic/lib/libsfml-network.a  C:/tools/vcpkg/installed/x64-mingw-dynamic/lib/libsfml-graphics.a  C:/tools/vcpkg/installed/x64-mingw-dynamic/lib/libsfml-window.a  C:/tools/vcpkg/installed/x64-mingw-dynamic/lib/libsfml-audio.a  C:/tools/vcpkg/installed/x64-mingw-dynamic/lib/libsfml-system.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\trabajo_clase.dir\RelWithDebInfo
-  POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\tools\ProgramacionParalela\TrabajoEnClase\build && C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file c:/tools/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/tools/ProgramacionParalela/TrabajoEnClase/build/RelWithDebInfo/trabajo_clase.exe -installedDir c:/tools/vcpkg/installed/x64-mingw-dynamic/bin -OutVariable out"
+  POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\tools\Proyectos\repaso_prueba\build && C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file c:/tools/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/tools/Proyectos/repaso_prueba/build/RelWithDebInfo/trabajo_clase.exe -installedDir c:/tools/vcpkg/installed/x64-mingw-dynamic/bin -OutVariable out"
   PRE_LINK = cd .
   TARGET_FILE = RelWithDebInfo\trabajo_clase.exe
   TARGET_IMPLIB = RelWithDebInfo\libtrabajo_clase.dll.a
@@ -86,7 +86,7 @@ build trabajo_clase$:RelWithDebInfo: phony RelWithDebInfo/trabajo_clase.exe
 
 
 #############################################
-# Folder: C:/tools/ProgramacionParalela/TrabajoEnClase/build
+# Folder: C:/tools/Proyectos/repaso_prueba/build
 
 build all$:RelWithDebInfo: phony RelWithDebInfo/trabajo_clase.exe
 

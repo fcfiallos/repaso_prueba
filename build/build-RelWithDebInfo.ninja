@@ -12,7 +12,7 @@ build trabajo_clase.exe: phony RelWithDebInfo/trabajo_clase.exe
 
 
 #############################################
-# Folder: C:/tools/ProgramacionParalela/TrabajoEnClase/build
+# Folder: C:/tools/Proyectos/repaso_prueba/build
 
 build all: phony all$:RelWithDebInfo
 

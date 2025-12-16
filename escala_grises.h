@@ -3,8 +3,6 @@
 
 #include <cstdint>
 
-void gray_scale_simd(uint8_t* image_entrada, uint8_t* image_salida, int width, int height, int canales);
-
-void gray_scale_open_mp(uint8_t* image_entrada, uint8_t* image_salida, int width, int height, int canales);
-
+void escala_grises_simd(uint8_t* entrada,  int width, int height, uint8_t* salida, int canales);
+void escala_grises_omp(uint8_t* entrada,  int width, int height, uint8_t* salida, int canales);
 #endif

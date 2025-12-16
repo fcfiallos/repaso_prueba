@@ -43,7 +43,7 @@ include CMakeFiles/common.ninja
 
 build cmake_object_order_depends_target_trabajo_clase_DEBUG: phony || .
 
-build CMakeFiles/trabajo_clase.dir/Debug/main.cpp.obj: CXX_COMPILER__trabajo_clase_unscanned_Debug C$:/tools/ProgramacionParalela/TrabajoEnClase/main.cpp || cmake_object_order_depends_target_trabajo_clase_DEBUG
+build CMakeFiles/trabajo_clase.dir/Debug/main.cpp.obj: CXX_COMPILER__trabajo_clase_unscanned_Debug C$:/tools/Proyectos/repaso_prueba/main.cpp || cmake_object_order_depends_target_trabajo_clase_DEBUG
   CONFIG = Debug
   DEFINES = -DFMT_SHARED -DCMAKE_INTDIR=\"Debug\"
   DEP_FILE = CMakeFiles\trabajo_clase.dir\Debug\main.cpp.obj.d
@@ -52,7 +52,7 @@ build CMakeFiles/trabajo_clase.dir/Debug/main.cpp.obj: CXX_COMPILER__trabajo_cla
   OBJECT_DIR = CMakeFiles\trabajo_clase.dir\Debug
   OBJECT_FILE_DIR = CMakeFiles\trabajo_clase.dir\Debug
 
-build CMakeFiles/trabajo_clase.dir/Debug/escala_grises.cpp.obj: CXX_COMPILER__trabajo_clase_unscanned_Debug C$:/tools/ProgramacionParalela/TrabajoEnClase/escala_grises.cpp || cmake_object_order_depends_target_trabajo_clase_DEBUG
+build CMakeFiles/trabajo_clase.dir/Debug/escala_grises.cpp.obj: CXX_COMPILER__trabajo_clase_unscanned_Debug C$:/tools/Proyectos/repaso_prueba/escala_grises.cpp || cmake_object_order_depends_target_trabajo_clase_DEBUG
   CONFIG = Debug
   DEFINES = -DFMT_SHARED -DCMAKE_INTDIR=\"Debug\"
   DEP_FILE = CMakeFiles\trabajo_clase.dir\Debug\escala_grises.cpp.obj.d
@@ -74,7 +74,7 @@ build Debug/trabajo_clase.exe: CXX_EXECUTABLE_LINKER__trabajo_clase_Debug CMakeF
   FLAGS = -mavx2 -fopenmp  -g
   LINK_LIBRARIES = C:/tools/vcpkg/installed/x64-mingw-dynamic/debug/lib/libfmtd.dll.a  C:/tools/vcpkg/installed/x64-mingw-dynamic/debug/lib/libsfml-network-d.a  C:/tools/vcpkg/installed/x64-mingw-dynamic/debug/lib/libsfml-graphics-d.a  C:/tools/vcpkg/installed/x64-mingw-dynamic/debug/lib/libsfml-window-d.a  C:/tools/vcpkg/installed/x64-mingw-dynamic/debug/lib/libsfml-audio-d.a  C:/tools/vcpkg/installed/x64-mingw-dynamic/debug/lib/libsfml-system-d.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\trabajo_clase.dir\Debug
-  POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\tools\ProgramacionParalela\TrabajoEnClase\build && C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file c:/tools/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/tools/ProgramacionParalela/TrabajoEnClase/build/Debug/trabajo_clase.exe -installedDir c:/tools/vcpkg/installed/x64-mingw-dynamic/debug/bin -OutVariable out"
+  POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\tools\Proyectos\repaso_prueba\build && C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file c:/tools/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/tools/Proyectos/repaso_prueba/build/Debug/trabajo_clase.exe -installedDir c:/tools/vcpkg/installed/x64-mingw-dynamic/debug/bin -OutVariable out"
   PRE_LINK = cd .
   TARGET_FILE = Debug\trabajo_clase.exe
   TARGET_IMPLIB = Debug\libtrabajo_clase.dll.a
@@ -86,7 +86,7 @@ build trabajo_clase$:Debug: phony Debug/trabajo_clase.exe
 
 
 #############################################
-# Folder: C:/tools/ProgramacionParalela/TrabajoEnClase/build
+# Folder: C:/tools/Proyectos/repaso_prueba/build
 
 build all$:Debug: phony Debug/trabajo_clase.exe
 

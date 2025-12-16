@@ -1,38 +1,38 @@
 [
 {
-  "directory": "C:/tools/ProgramacionParalela/TrabajoEnClase/build",
-  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp  -g -o CMakeFiles\\trabajo_clase.dir\\Debug\\main.cpp.obj -c C:\\tools\\ProgramacionParalela\\TrabajoEnClase\\main.cpp",
-  "file": "C:/tools/ProgramacionParalela/TrabajoEnClase/main.cpp",
-  "output": "C:/tools/ProgramacionParalela/TrabajoEnClase/build/CMakeFiles/trabajo_clase.dir/Debug/main.cpp.obj"
+  "directory": "C:/tools/Proyectos/repaso_prueba/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp  -g -o CMakeFiles\\trabajo_clase.dir\\Debug\\main.cpp.obj -c C:\\tools\\Proyectos\\repaso_prueba\\main.cpp",
+  "file": "C:/tools/Proyectos/repaso_prueba/main.cpp",
+  "output": "C:/tools/Proyectos/repaso_prueba/build/CMakeFiles/trabajo_clase.dir/Debug/main.cpp.obj"
 },
 {
-  "directory": "C:/tools/ProgramacionParalela/TrabajoEnClase/build",
-  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp  -g -o CMakeFiles\\trabajo_clase.dir\\Debug\\escala_grises.cpp.obj -c C:\\tools\\ProgramacionParalela\\TrabajoEnClase\\escala_grises.cpp",
-  "file": "C:/tools/ProgramacionParalela/TrabajoEnClase/escala_grises.cpp",
-  "output": "C:/tools/ProgramacionParalela/TrabajoEnClase/build/CMakeFiles/trabajo_clase.dir/Debug/escala_grises.cpp.obj"
+  "directory": "C:/tools/Proyectos/repaso_prueba/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp  -g -o CMakeFiles\\trabajo_clase.dir\\Debug\\escala_grises.cpp.obj -c C:\\tools\\Proyectos\\repaso_prueba\\escala_grises.cpp",
+  "file": "C:/tools/Proyectos/repaso_prueba/escala_grises.cpp",
+  "output": "C:/tools/Proyectos/repaso_prueba/build/CMakeFiles/trabajo_clase.dir/Debug/escala_grises.cpp.obj"
 },
 {
-  "directory": "C:/tools/ProgramacionParalela/TrabajoEnClase/build",
-  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp  -O3 -DNDEBUG -o CMakeFiles\\trabajo_clase.dir\\Release\\main.cpp.obj -c C:\\tools\\ProgramacionParalela\\TrabajoEnClase\\main.cpp",
-  "file": "C:/tools/ProgramacionParalela/TrabajoEnClase/main.cpp",
-  "output": "C:/tools/ProgramacionParalela/TrabajoEnClase/build/CMakeFiles/trabajo_clase.dir/Release/main.cpp.obj"
+  "directory": "C:/tools/Proyectos/repaso_prueba/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp  -O3 -DNDEBUG -o CMakeFiles\\trabajo_clase.dir\\Release\\main.cpp.obj -c C:\\tools\\Proyectos\\repaso_prueba\\main.cpp",
+  "file": "C:/tools/Proyectos/repaso_prueba/main.cpp",
+  "output": "C:/tools/Proyectos/repaso_prueba/build/CMakeFiles/trabajo_clase.dir/Release/main.cpp.obj"
 },
 {
-  "directory": "C:/tools/ProgramacionParalela/TrabajoEnClase/build",
-  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp  -O3 -DNDEBUG -o CMakeFiles\\trabajo_clase.dir\\Release\\escala_grises.cpp.obj -c C:\\tools\\ProgramacionParalela\\TrabajoEnClase\\escala_grises.cpp",
-  "file": "C:/tools/ProgramacionParalela/TrabajoEnClase/escala_grises.cpp",
-  "output": "C:/tools/ProgramacionParalela/TrabajoEnClase/build/CMakeFiles/trabajo_clase.dir/Release/escala_grises.cpp.obj"
+  "directory": "C:/tools/Proyectos/repaso_prueba/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp  -O3 -DNDEBUG -o CMakeFiles\\trabajo_clase.dir\\Release\\escala_grises.cpp.obj -c C:\\tools\\Proyectos\\repaso_prueba\\escala_grises.cpp",
+  "file": "C:/tools/Proyectos/repaso_prueba/escala_grises.cpp",
+  "output": "C:/tools/Proyectos/repaso_prueba/build/CMakeFiles/trabajo_clase.dir/Release/escala_grises.cpp.obj"
 },
 {
-  "directory": "C:/tools/ProgramacionParalela/TrabajoEnClase/build",
-  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp  -O2 -g -DNDEBUG -o CMakeFiles\\trabajo_clase.dir\\RelWithDebInfo\\main.cpp.obj -c C:\\tools\\ProgramacionParalela\\TrabajoEnClase\\main.cpp",
-  "file": "C:/tools/ProgramacionParalela/TrabajoEnClase/main.cpp",
-  "output": "C:/tools/ProgramacionParalela/TrabajoEnClase/build/CMakeFiles/trabajo_clase.dir/RelWithDebInfo/main.cpp.obj"
+  "directory": "C:/tools/Proyectos/repaso_prueba/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp  -O2 -g -DNDEBUG -o CMakeFiles\\trabajo_clase.dir\\RelWithDebInfo\\main.cpp.obj -c C:\\tools\\Proyectos\\repaso_prueba\\main.cpp",
+  "file": "C:/tools/Proyectos/repaso_prueba/main.cpp",
+  "output": "C:/tools/Proyectos/repaso_prueba/build/CMakeFiles/trabajo_clase.dir/RelWithDebInfo/main.cpp.obj"
 },
 {
-  "directory": "C:/tools/ProgramacionParalela/TrabajoEnClase/build",
-  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp  -O2 -g -DNDEBUG -o CMakeFiles\\trabajo_clase.dir\\RelWithDebInfo\\escala_grises.cpp.obj -c C:\\tools\\ProgramacionParalela\\TrabajoEnClase\\escala_grises.cpp",
-  "file": "C:/tools/ProgramacionParalela/TrabajoEnClase/escala_grises.cpp",
-  "output": "C:/tools/ProgramacionParalela/TrabajoEnClase/build/CMakeFiles/trabajo_clase.dir/RelWithDebInfo/escala_grises.cpp.obj"
+  "directory": "C:/tools/Proyectos/repaso_prueba/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -fopenmp  -O2 -g -DNDEBUG -o CMakeFiles\\trabajo_clase.dir\\RelWithDebInfo\\escala_grises.cpp.obj -c C:\\tools\\Proyectos\\repaso_prueba\\escala_grises.cpp",
+  "file": "C:/tools/Proyectos/repaso_prueba/escala_grises.cpp",
+  "output": "C:/tools/Proyectos/repaso_prueba/build/CMakeFiles/trabajo_clase.dir/RelWithDebInfo/escala_grises.cpp.obj"
 }
 ]

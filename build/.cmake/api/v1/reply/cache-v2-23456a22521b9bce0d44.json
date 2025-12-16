@@ -43,7 +43,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/tools/ProgramacionParalela/TrabajoEnClase/build"
+			"value" : "c:/tools/Proyectos/repaso_prueba/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/tools/ProgramacionParalela/TrabajoEnClase/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/tools/Proyectos/repaso_prueba/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/tools/ProgramacionParalela/TrabajoEnClase"
+			"value" : "C:/tools/Proyectos/repaso_prueba"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1371,7 +1371,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/tools/ProgramacionParalela/TrabajoEnClase/build"
+			"value" : "C:/tools/Proyectos/repaso_prueba/build"
 		},
 		{
 			"name" : "TrabajoClase_IS_TOP_LEVEL",
@@ -1395,7 +1395,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/tools/ProgramacionParalela/TrabajoEnClase"
+			"value" : "C:/tools/Proyectos/repaso_prueba"
 		},
 		{
 			"name" : "VCPKG_APPLOCAL_DEPS",
