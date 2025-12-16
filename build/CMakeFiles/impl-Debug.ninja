@@ -51,6 +51,8 @@ build CMakeFiles/trabajo_clase.dir/Debug/main.cpp.obj: CXX_COMPILER__trabajo_cla
   INCLUDES = -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include
   OBJECT_DIR = CMakeFiles\trabajo_clase.dir\Debug
   OBJECT_FILE_DIR = CMakeFiles\trabajo_clase.dir\Debug
+  TARGET_COMPILE_PDB = CMakeFiles\trabajo_clase.dir\Debug\
+  TARGET_PDB = Debug\trabajo_clase.pdb
 
 build CMakeFiles/trabajo_clase.dir/Debug/escala_grises.cpp.obj: CXX_COMPILER__trabajo_clase_unscanned_Debug C$:/tools/Proyectos/repaso_prueba/escala_grises.cpp || cmake_object_order_depends_target_trabajo_clase_DEBUG
   CONFIG = Debug
@@ -60,6 +62,8 @@ build CMakeFiles/trabajo_clase.dir/Debug/escala_grises.cpp.obj: CXX_COMPILER__tr
   INCLUDES = -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include
   OBJECT_DIR = CMakeFiles\trabajo_clase.dir\Debug
   OBJECT_FILE_DIR = CMakeFiles\trabajo_clase.dir\Debug
+  TARGET_COMPILE_PDB = CMakeFiles\trabajo_clase.dir\Debug\
+  TARGET_PDB = Debug\trabajo_clase.pdb
 
 
 # =============================================================================
@@ -76,9 +80,10 @@ build Debug/trabajo_clase.exe: CXX_EXECUTABLE_LINKER__trabajo_clase_Debug CMakeF
   OBJECT_DIR = CMakeFiles\trabajo_clase.dir\Debug
   POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\tools\Proyectos\repaso_prueba\build && C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file c:/tools/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/tools/Proyectos/repaso_prueba/build/Debug/trabajo_clase.exe -installedDir c:/tools/vcpkg/installed/x64-mingw-dynamic/debug/bin -OutVariable out"
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\trabajo_clase.dir\Debug\
   TARGET_FILE = Debug\trabajo_clase.exe
   TARGET_IMPLIB = Debug\libtrabajo_clase.dll.a
-  TARGET_PDB = trabajo_clase.exe.dbg
+  TARGET_PDB = Debug\trabajo_clase.pdb
 
 build trabajo_clase.exe$:Debug: phony Debug/trabajo_clase.exe
 

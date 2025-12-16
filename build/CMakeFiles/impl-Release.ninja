@@ -51,6 +51,8 @@ build CMakeFiles/trabajo_clase.dir/Release/main.cpp.obj: CXX_COMPILER__trabajo_c
   INCLUDES = -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include
   OBJECT_DIR = CMakeFiles\trabajo_clase.dir\Release
   OBJECT_FILE_DIR = CMakeFiles\trabajo_clase.dir\Release
+  TARGET_COMPILE_PDB = CMakeFiles\trabajo_clase.dir\Release\
+  TARGET_PDB = Release\trabajo_clase.pdb
 
 build CMakeFiles/trabajo_clase.dir/Release/escala_grises.cpp.obj: CXX_COMPILER__trabajo_clase_unscanned_Release C$:/tools/Proyectos/repaso_prueba/escala_grises.cpp || cmake_object_order_depends_target_trabajo_clase_RELEASE
   CONFIG = Release
@@ -60,6 +62,8 @@ build CMakeFiles/trabajo_clase.dir/Release/escala_grises.cpp.obj: CXX_COMPILER__
   INCLUDES = -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include
   OBJECT_DIR = CMakeFiles\trabajo_clase.dir\Release
   OBJECT_FILE_DIR = CMakeFiles\trabajo_clase.dir\Release
+  TARGET_COMPILE_PDB = CMakeFiles\trabajo_clase.dir\Release\
+  TARGET_PDB = Release\trabajo_clase.pdb
 
 
 # =============================================================================
@@ -76,9 +80,10 @@ build Release/trabajo_clase.exe: CXX_EXECUTABLE_LINKER__trabajo_clase_Release CM
   OBJECT_DIR = CMakeFiles\trabajo_clase.dir\Release
   POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\tools\Proyectos\repaso_prueba\build && C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file c:/tools/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/tools/Proyectos/repaso_prueba/build/Release/trabajo_clase.exe -installedDir c:/tools/vcpkg/installed/x64-mingw-dynamic/bin -OutVariable out"
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\trabajo_clase.dir\Release\
   TARGET_FILE = Release\trabajo_clase.exe
   TARGET_IMPLIB = Release\libtrabajo_clase.dll.a
-  TARGET_PDB = trabajo_clase.exe.dbg
+  TARGET_PDB = Release\trabajo_clase.pdb
 
 build trabajo_clase.exe$:Release: phony Release/trabajo_clase.exe
 
